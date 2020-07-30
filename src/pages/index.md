@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: LAUREN ETHERIDGE
-image: /img/twinpeack-dern.jpg
+image: /img/black_background.png
 heading: "Heading "
 subheading: Communications Specialist | Web Developer | Digital Strategist
 mainpitch:
