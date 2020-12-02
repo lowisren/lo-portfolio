@@ -2,19 +2,16 @@
 templateKey: index-page
 title: LAUREN ETHERIDGE
 image: /img/black_background.png
-heading: "Heading "
-subheading: Communications Specialist | Web Developer | Digital Strategist
+heading: HEADING
+subheading: " Web Developer | Digital Strategist | Community Educator"
 mainpitch:
   title: About Me
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  description: "Web Developer and Community Advocate with a demonstrated history
+    of providing development, data analysis, and communications support in the
+    higher education, non-profit, and government sectors. Skilled in JavaScript,
+    PHP, and SQL and a passion for DEI, community-based
+    education/apprenticeship, and organizational behavior. "
+description: Text will go here. Testing CMS deploy.
 intro:
   blurbs:
     - image: /img/coffee.png
